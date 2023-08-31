@@ -5,18 +5,21 @@ Note Taker Express is a convenient and user-friendly application that allows ind
 
 
 ## Installations
-node.js, 
-express: 4.16.4,
-uuid: 9.0.0,
-start: 5.1.0,
-nodemon: 3.0.1.
+To install, run `npm install`
+
+Dependencies
+- node.js 
+- express: 4.16.4
+- uuid: 9.0.0
+- start: 5.1.0
+- nodemon: 3.0.1.
 
 
 ## Usage
 Give a new note title and enter the note text desired. Click save button that will pop-up close to + sign. Delete the note if you dont need it anymore with the trash button. Check your saved notes. Add more notes clicking on the + sign button. 
 
-## Reference
+## Deployed Site
 
-![Screenshot of Deployed Website]()
+![Screenshot of Deployed Website](/reference/images/NoteTakerDeployed.png)
 
-[Live Demo Link]()
+[Live Demo Link](https://notetakerexpress21-5683318851a0.herokuapp.com/notes)
